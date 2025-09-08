@@ -27,33 +27,21 @@ Data Analytics Concepts → ROI, ROAS, Funnel Analysis
 
 Visualization → Conversion Funnel, Keyword Analysis, Cost vs Revenue Trends
 
-## 📑 Key Steps
-1. Data Cleaning
-
+# 📑 Key Steps
+# Data Cleaning:
 Removed duplicates and irrelevant rows.
-
 Standardized formats for dates, costs, and sales amounts.
-
 Fixed missing and inconsistent values.
 
-2. Exploratory Analysis & Pivot Tables
-
+# Exploratory Analysis & Pivot Tables:
 Cost vs Sales Analysis – checked profitability.
-
 ROAS Calculation – ROAS = Revenue / Cost.
-
 Conversion Funnel – Impressions → Clicks → Leads → Conversions → Sales.
-
 Keyword Analysis – identified top-performing keywords.
 
-3. Dashboard Creation
-
+# Dashboard Creation
 Created an interactive dashboard including:
-
 KPI Cards (Total Cost, Total Sales, ROAS, Clicks, Conversions)
-
 Cost vs Revenue Trend over time
-
 Conversion Funnel visualization
-
 Keyword Performance (by conversions)
