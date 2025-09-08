@@ -30,30 +30,56 @@ Visualization → Conversion Funnel, Keyword Analysis, Cost vs Revenue Trends
 # 📑 Key Steps
 1. Data Cleaning
 
-  Removed duplicates and irrelevant rows.
-
-  Standardized formats for dates, costs, and sales amounts.
-
-  Fixed missing and inconsistent values.
+    Removed duplicates and irrelevant rows.
+  
+    Standardized formats for dates, costs, and sales amounts.
+  
+    Fixed missing and inconsistent values.
 
 2. Exploratory Analysis & Pivot Tables
 
-  Cost vs Sales Analysis – checked profitability.
-  
-  ROAS Calculation – ROAS = Revenue / Cost.
-  
-  Conversion Funnel – Impressions → Clicks → Leads → Conversions → Sales.
-  
-  Keyword Analysis – identified top-performing keywords.
+    Cost vs Sales Analysis – checked profitability.
+    
+    ROAS Calculation – ROAS = Revenue / Cost.
+    
+    Conversion Funnel – Impressions → Clicks → Leads → Conversions → Sales.
+    
+    Keyword Analysis – identified top-performing keywords.
 
 3. Dashboard Creation
 
-  Created an interactive dashboard including:
-  
-  KPI Cards (Total Cost, Total Sales, ROAS, Clicks, Conversions)
-  
-  Cost vs Revenue Trend over time
-  
-  Conversion Funnel visualization
-  
-  Keyword Performance (by conversions)
+    Created an interactive dashboard including:
+    
+    KPI Cards (Total Cost, Total Sales, ROAS, Clicks, Conversions)
+    
+    Cost vs Revenue Trend over time
+    
+    Conversion Funnel visualization
+    
+    Keyword Performance (by conversions)
+
+# 📊 Key Insights
+
+Overall ROAS: ~1.84 → Ads generated ~1.84x return on spend.
+
+Conversion Funnel:
+
+Impressions: 11.8M
+
+Clicks: 345K (2.9% CTR)
+
+Leads: 51K (14.7% of clicks)
+
+Conversions: 16.9K (~33% of leads)
+
+Sales: $3.69M
+
+Keyword Performance: Certain keywords like “Data Analytics Course” and “Online Data Analytics” performed best in terms of conversions.
+
+# 🎯 Outcomes & Learnings
+
+Learned how to process raw campaign data into business-ready insights.
+
+Built skills in data cleaning, pivot analysis, and visualization.
+
+Understood how metrics like ROAS and conversion funnels guide ad spend decisions.
