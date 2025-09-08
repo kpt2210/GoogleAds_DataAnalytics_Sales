@@ -8,8 +8,14 @@ This project demonstrates end-to-end data analytics on Google Ads campaign perfo
 The project walks through a complete data analytics workflow:
 
 Data Cleaning 🧹
+
 Exploratory Data Analysis (EDA) 📈
+
 Pivot Table Summaries 📊
+
 Conversion Funnel 📉
+
 ROI/ROAS Tracking 💰
+
 Dashboard Creation 🎯
+
