@@ -19,3 +19,10 @@ ROI/ROAS Tracking 💰
 
 Dashboard Creation 🎯
 
+# 🛠️ Tools & Skills Used
+
+Google Sheets / Excel → Data Cleaning, Pivot Tables, Dashboard
+
+Data Analytics Concepts → ROI, ROAS, Funnel Analysis
+
+Visualization → Conversion Funnel, Keyword Analysis, Cost vs Revenue Trends
